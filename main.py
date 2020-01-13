@@ -1,1 +1,1 @@
-print( "Hello whirled peas!" )
+print( "Hello transient cow who says hello?" )
